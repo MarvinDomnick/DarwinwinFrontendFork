@@ -185,11 +185,35 @@ Backend:
 
 Aktuelle Tasks:
 
-Frintend:
+Frontend:
 - Branch fertig zum mergen machen!
 - Viewcone fertig machen
 - Testen!
 
 Backend:
-- test fuer file system
-- Vrobereitung fuer Training
+- Vorbereitung fuer Training
+
+## 17.01.2025
+
+Aktuelle Tasks:
+
+**Jan:**
+- Bugfix viewcone
+- Bugfix Ansicht
+
+**Malin:**
+- Code Review
+
+Frontend:
+- Testen
+- Branch fertig machen!
+--
+- viewcone seperat anzeigen aus Frontend zusammengebaut (in neuer Branch1, wenn fertig -> neue MR)
+- Button: single step fuer ai-actor `/ai_step` (neue Branch2)
+- Button: generiertes Level vom Server anfragen `/level_generate` (neue Branch3 & MR)
+--
+- Buttons: `/start_training`, `/stop_training`, `is_training`  (neue Branch4 & MR)
+
+Backend:
+- Frontend Änderungen mergen, wenn bereit
+- Training vorbereiten + training testen
